@@ -227,7 +227,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/elementrem-smartcontract-blockchain/build_elementrem.sh"
+            "https://raw.githubusercontent.com/elementrem/ms-test/master/elementrem-smartcontract-blockchain/azuredeploy.json"
           ],
           "commandToExecute": "[concat('sh', ' ', 'build_elementrem.sh', ' ', parameters('adminUsername'), ' ', parameters('privateGenesis'))]"
         }

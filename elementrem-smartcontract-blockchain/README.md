@@ -2,7 +2,7 @@
 
 ![](img/200x200 Elementrem logo.png)
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Felementrem%2ms-test%2Fmaster%2Felementrem-smartcontract-blockchain%2Fazuredeploy.json)  [![Visualize](http://armviz.io/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Felementrem%2ms-test%2Fmaster%2Felementrem-smartcontract-blockchain%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Felementrem%2Fms-test%2Fmaster%2Felementrem-smartcontract-blockchain%2Fazuredeploy.json)  [![Visualize](http://armviz.io/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Felementrem%2Fms-test%2Fmaster%2Felementrem-smartcontract-blockchain%2Fazuredeploy.json)
 
 ***
 
